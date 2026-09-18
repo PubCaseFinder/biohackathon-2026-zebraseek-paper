@@ -192,7 +192,7 @@ Literature-derived cases additionally require a careful audit of information ove
 
 The resulting research question is broader than whether adding modalities improves accuracy: how can complementary specialist evidence be acquired deeply enough to avoid preventable candidate loss, integrated selectively enough to remain practical, and presented with enough provenance to be independently reviewed? The current ZebraSeek implementation, original 74-case benchmark and hackathon candidate-acquisition analysis provide an initial framework for answering these questions rather than a completed clinical validation.
 
-# Online Methods
+# Methods
 
 ## Study design and original case selection
 
