@@ -12,39 +12,39 @@ authors:
   - name: Naoya Yoshikuwa
     affiliation: 1
   - name: Hirokazu Chiba
-    affiliation: 3
+    affiliation: 2
   - name: Teppei Okazaki
-    affiliation: 2
+    affiliation: 3
   - name: Jae-Moon Shin
-    affiliation: 3
-  - name: Eisuke Dohi
-    affiliation: 5
-  - name: Hiroyuki Mishima
-    affiliation: 6
-  - name: Atsuko Yamaguchi
     affiliation: 2
-  - name: Tzung-Chien Hsieh
-    affiliation: 7
-  - name: Orion Buske
+  - name: Eisuke Dohi
     affiliation: 4
-  - name: Susumu Goto
-    affiliation: "1,3"
-  - name: Toyofumi Fujiwara
+  - name: Hiroyuki Mishima
+    affiliation: 5
+  - name: Atsuko Yamaguchi
     affiliation: 3
+  - name: Tzung-Chien Hsieh
+    affiliation: 6
+  - name: Orion Buske
+    affiliation: 7
+  - name: Susumu Goto
+    affiliation: "1,2"
+  - name: Toyofumi Fujiwara
+    affiliation: 2
 affiliations:
   - name: "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo"
     index: 1
-  - name: "Information and Data Sciences, Graduate School of Information and Data Sciences, Tokyo City University"
-    index: 2
   - name: "Database Division for Life Science (DBCLS), BioData Science Initiative (BSI), National Institute of Genetics (NIG), Research Organization of Information and Systems (ROIS)"
+    index: 2
+  - name: "Information and Data Sciences, Graduate School of Information and Data Sciences, Tokyo City University"
     index: 3
-  - name: "PhenoTips, Toronto, Ontario, Canada"
-    index: 4
   - name: "National Institute of Neuroscience, National Center of Neurology and Psychiatry (NCNP)"
-    index: 5
+    index: 4
   - name: "Atomic Bomb Disease Institute, Nagasaki University"
-    index: 6
+    index: 5
   - name: "Institute for Genomic Statistics and Bioinformatics, University Hospital Bonn"
+    index: 6
+  - name: "PhenoTips, Toronto, Ontario, Canada"
     index: 7
 date: "18 September 2026"
 bibliography: paper.bib
